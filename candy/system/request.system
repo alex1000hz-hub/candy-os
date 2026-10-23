@@ -1,0 +1,9 @@
+{
+    "comando": "lf",
+    "args": [
+        "system"
+    ],
+    "usuario": "alexander",
+    "from": 0.002,
+    "codigo": null
+}
